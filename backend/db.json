@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": "1",
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Lucas",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "2",
+      "conteudo": "Meu pensamento",
+      "autoria": "Lucas",
+      "modelo": "modelo2"
+    },
+    {
+      "id": "3",
+      "conteudo": "Estude carai",
+      "autoria": "Lucas",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "9572",
+      "conteudo": "Teste criação de pensamento",
+      "autoria": "Lucas",
+      "modelo": "modelo3"
+    }
+  ]
+}

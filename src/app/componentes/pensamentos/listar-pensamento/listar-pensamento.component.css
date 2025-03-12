@@ -1,0 +1,47 @@
+.mural {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+    margin: 1rem 0 2rem;
+  }
+  
+  .d-flex{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  
+  .sem-pensamentos {
+    text-align: center;
+    padding: 2rem 0 5rem;
+  }
+
+  .botao {
+    width: 200px;
+    border-radius: 10px;
+    border: 0;
+    background-color: #154580;
+    color: white;
+    padding: 10px;
+  }
+
+  .divBotao{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+
+  h2 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-weight: 700;
+    color: #154580;
+    margin-top: 2rem;
+  }
+
+  header{
+    display: flex;
+    flex-direction: column;
+  }
