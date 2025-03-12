@@ -4,7 +4,7 @@
     <p class="conteudo"><b>{{ pensamento.autoria }}</b></p>
     <div class="acoes">
         <button class="botao-editar">
-            <img src="images/icone-editar.png" alt="Ícone de editar">
+            <img src="images/icone-editar.png" alt="Ícone de editar" routerLink="/pensamentos/editarPensamento/{{pensamento.id}}">
         </button>
         <button class="botao-excluir" routerLink="/pensamentos/excluirPensamento/{{pensamento.id}}">
             <img src="images/icone-excluir.png" alt="Ícone de excluir">
